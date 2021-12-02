@@ -1,0 +1,2 @@
+include versioneer.py
+include sksurgerytrackedvidus/_version.py

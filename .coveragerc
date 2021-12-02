@@ -1,0 +1,6 @@
+[run]
+omit = 
+        ./sksurgerytrackedvidus/_version.py
+        ./sksurgerytrackedvidus/__init__.py
+        ./sksurgerytrackedvidus/__main__.py
+        ./sksurgerytrackedvidus/ui/sksurgerytrackedvidus_command_line.py
