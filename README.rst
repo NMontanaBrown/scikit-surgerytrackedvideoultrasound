@@ -25,16 +25,9 @@ Author: Nina Montana-Brown
 
 scikit-surgerytrackedvideoultrasound is part of the `scikit-surgery`_ software project, developed at the `Wellcome EPSRC Centre for Interventional and Surgical Sciences`_, part of `University College London (UCL)`_.
 
-scikit-surgerytrackedvideoultrasound supports Python 2.7 and Python 3.6.
+scikit-surgerytrackedvideoultrasound supports Python 3.7.9. It is supported for Windows specifically.
 
-scikit-surgerytrackedvideoultrasound is currently a demo project, which will add/multiply two numbers. Example usage:
-
-::
-
-    python sksurgerytrackedvidus.py 5 8
-    python sksurgerytrackedvidus.py 3 6 --multiply
-
-Please explore the project structure, and implement your own functionality.
+scikit-surgerytrackedvideoultrasound is currently a demo project.
 
 Developing
 ----------
